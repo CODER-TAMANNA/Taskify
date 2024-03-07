@@ -1,7 +1,6 @@
 ### Taskify is a Task management Web Base Software. Which one you can create a task in your team collaboration group?
 <br>
 
-[Live Webiste](https://taskify-drab.vercel.app/login)
 
 ### Common Features:
 
@@ -27,23 +26,4 @@
 
 
 
-##### UI UX View 
 
-- Dashboard View
-  ![image](https://github.com/morshedulmunna/taskify/assets/44342051/18cb67c9-1bfb-4980-aa7c-b42c7765f144)
-
-- Group Create View
-  ![image](https://github.com/morshedulmunna/taskify/assets/44342051/9f38cef3-5d63-4a45-bcb3-92c9ab23c50f)
-
-- Task Management View
-  ![image](https://github.com/morshedulmunna/taskify/assets/44342051/91ca49ba-e6b9-48c0-8231-231f3b7a2792)
-
-- Update Task Status 
-  ![image](https://github.com/morshedulmunna/taskify/assets/44342051/25183af7-2d3b-4c3d-bb51-48d595882024)
-
-- Profile View Also Can be Update Profile Info
-  ![image](https://github.com/morshedulmunna/taskify/assets/44342051/9c1f73ed-d8ea-4502-8cff-2ce4ec3d325c)
-
-
-  Design & Develop by morshedulmunna
-  email: morshedulmunna1@gmail.com
